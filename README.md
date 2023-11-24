@@ -19,6 +19,8 @@ Se implementaron dos modelos de machine learning:
 - Modelo de Regresión: Para predecir el precio final de los vehículos.
 - Modelo de Clasificación: Para clasificar vehículos en categorías de gama alta y baja.
 
+Se utilizó la mediana de los precios como punto de corte en el modelo de clasificación. La evaluación de los modelos incluyó el cálculo del Mean Squared Error para regresión y la generación de un informe de clasificación para el modelo de clasificación.
+
 ## Variables utilizadas
 - citympg: Consumo en ciudad en millas por galón de combustible.
 - highwaympg: Consumo en ruta en millas por galón de combustible.
