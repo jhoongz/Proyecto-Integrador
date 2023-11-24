@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo analizar y predecir los precios de los vehícu
 
 ## Estructura del Proyecto
 1. Análisis Exploratorio de Datos:
-En esta fase, se exploraron las características de los vehículos presentes en el mercado. Se realizaron visualizaciones y análisis estadísticos para comprender la distribución de precios y las relaciones entre variables clave.
+Se exploraron las características de los vehículos presentes en el mercado. Se realizaron visualizaciones y análisis estadísticos para comprender la distribución de precios y las relaciones entre variables clave.
 
 2. Preparación de Datos:
 Se llevaron a cabo procesos de limpieza de datos, manejo de variables categóricas y selección de características relevantes. Los datos se dividieron en conjuntos de entrenamiento y prueba, y se escaló las características cuando fue necesario.
